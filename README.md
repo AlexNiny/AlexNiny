@@ -1,3 +1,3 @@
 ### AlexNiny
 #### Coder
-#### The free-spirit musician.
+#### Web3 developer
