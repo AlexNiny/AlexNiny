@@ -1,3 +1,1 @@
-### AlexNiny
-#### Coder
-#### Web3 developer
+### Live in crypto world.
