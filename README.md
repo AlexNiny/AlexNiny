@@ -1,1 +1,2 @@
-### Live in crypto world.
+- Live in crypto world.
+- Actively exploring the new world of AI.
