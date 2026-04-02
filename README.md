@@ -1,2 +1,1 @@
-- Live in crypto world.
-- Actively exploring the new world of AI.
+- AI Model/AI Agent Dev
