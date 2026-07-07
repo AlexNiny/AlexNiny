@@ -1,3 +1,2 @@
-## AI Model/Agent
+## AI Agent / LLM
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/AlexNiny/svg)](https://tokscale.ai/u/AlexNiny)
