@@ -1,2 +1,2 @@
-## AI Agent / LLM
+## AI Agent / LLMs
 
